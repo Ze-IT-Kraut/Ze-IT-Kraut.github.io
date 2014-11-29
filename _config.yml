@@ -19,38 +19,124 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Ralph Christoph
   pic: 1
-  position: Lead Designer
+  position: Advisor
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ralphchristoph
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.facebook.com/ralph.christoph
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+      url: http://de.linkedin.com/in/ralphchristoph
+- name: Johannes Heck
+  pic: 2
+  position: German Engineer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/yoyostile
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/ralph.christoph
+    - title: linkedin
+      url: http://de.linkedin.com/in/ralphchristoph
+
+- name: Florian Krakau
+  pic: 3
+  position: Head of Media
+  social:
+    - title: twitter
+      url: https://twitter.com/dotdean
+    - title: facebook
+      url: https://www.facebook.com/dotdean
+    - title: linkedin
+      url: https://de.linkedin.com/in/floriankrakau
+
+- name: Jan Kus
+  pic: 4
+  position: Wholesaler
+  social:
+    - title: twitter
+      url: http://twitter.com/koos
+    - title: facebook
+      url: http://facebook.com/jbvkoos
+    - title: linkedin
+      url: de.linkedin.com/in/jbvkoos
+
+- name: Tobias Schiwek
+  pic: 5
+  position: Wholesaler
+  social:
+    - title: twitter
+      url: https://twitter.com/tobiasschiwek
+    - title: facebook
+      url: https://www.facebook.com/schiwek
+    - title: linkedin
+      url: https://de.linkedin.com/in/schiwek
+
+- name: Isa Slowik
+  pic: 6
+  position: Compositor
+  # social:
+  #   - title: facebook
+  #     url: https://www.facebook.com/schiwek
+  #   - title: linkedin
+  #     url: https://de.linkedin.com/in/schiwek
+
+# Team names, titles and social links
+delegation:
+- name: Vidar Andersen
+  pic: 7
+  position: Salesman
+  social:
+    - title: twitter
+      url: https://twitter.com/blacktar
+    - title: facebook
+      url: https://www.facebook.com/Blacktar
+    - title: linkedin
+      url: https://de.linkedin.com/in/vidarandersen
+- name: Ralph Christoph
+  pic: 1
+  position: Advisor
+  social:
+    - title: twitter
+      url: https://twitter.com/ralphchristoph
+    - title: facebook
+      url: https://www.facebook.com/ralph.christoph
+    - title: linkedin
+      url: http://de.linkedin.com/in/ralphchristoph
+
+- name: Florian Krakau
+  pic: 3
+  position: Head of Media
+  social:
+    - title: twitter
+      url: https://twitter.com/dotdean
+    - title: facebook
+      url: https://www.facebook.com/dotdean
+    - title: linkedin
+      url: https://de.linkedin.com/in/floriankrakau
+
+- name: Jan Kus
+  pic: 4
+  position: Wholesaler
+  social:
+    - title: twitter
+      url: http://twitter.com/koos
+    - title: facebook
+      url: http://facebook.com/jbvkoos
+    - title: linkedin
+      url: de.linkedin.com/in/jbvkoos
+
+- name: Tobias Schiwek
+  pic: 5
+  position: Wholesaler
+  social:
+    - title: twitter
+      url: https://twitter.com/tobiasschiwek
+    - title: facebook
+      url: https://www.facebook.com/schiwek
+    - title: linkedin
+      url: https://de.linkedin.com/in/schiwek
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -61,8 +147,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Germany
+  - line: Euope
 
 # Build settings
 markdown: kramdown
