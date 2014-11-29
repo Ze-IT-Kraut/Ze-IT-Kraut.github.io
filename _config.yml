@@ -1,5 +1,10 @@
-url: http://zeitkraut.at
-baseurl: /sxsw
+# url: http://zeitkraut.at
+# baseurl: /sxsw
+
+# url: http://localhost
+# port: 4000
+# baseurl: /sxsw
+
 
 # Site settings
 title: Ze IT Kraut @ SXSW
