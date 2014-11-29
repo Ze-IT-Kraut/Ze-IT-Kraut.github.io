@@ -322,7 +322,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 section h2.section-heading {
@@ -342,7 +342,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 50px 0;
     }
 }
 
@@ -861,4 +861,30 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+.hero-image {
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.hero-image.as-bockwurst {
+    background-image: url('http://www.eberswalder.de/wp-content/uploads/Bockwurst-neu.jpg');
+}
+
+.hero-image.as-sauerkraut {
+    background-image: url('http://thelittlegsp.files.wordpress.com/2013/10/068-bratwurst-und-sauerkraut.jpg');
+}
+
+.hero-image blockquote {
+    border-right: 0px;
+    font-size: 32px;
+    color: white;
+    font-style: italic;
+    background-color: rgba(0,0,0,0.6);
+    display: inline;
+    float: right;
 }
