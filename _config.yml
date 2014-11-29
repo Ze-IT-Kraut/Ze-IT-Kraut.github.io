@@ -1,5 +1,5 @@
-url: 127.0.0.1
-# baseurl: /sxsw
+url: http://zeitkraut.at
+baseurl: /sxsw
 
 # Site settings
 title: Ze IT Kraut @ SXSW
