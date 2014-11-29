@@ -9,7 +9,7 @@ $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
+            scrollTop: $($anchor.attr('href')).offset().top - 80
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
@@ -17,7 +17,8 @@ $(function() {
 
 // Highlight the top nav as scrolling occurs
 $('body').scrollspy({
-    target: '.navbar-fixed-top'
+    target: '.navbar-fixed-top',
+    offset: 75
 })
 
 // Closes the Responsive Menu on Menu Item Click
@@ -35,3 +36,7 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$(function() {
+    $('header').attr('style', "background-image: url('../img/header-bg-" + Math.floor(Math.random()*3) + ".jpg');");
+})

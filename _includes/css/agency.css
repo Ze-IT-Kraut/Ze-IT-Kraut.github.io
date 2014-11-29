@@ -902,3 +902,14 @@ header .intro-text {
 #contact .jumbotron {
     
 }
+
+ul.nav .nav-alert {
+    background-color: red !important;
+    border-radius: 3px;
+}
+
+ul.nav .nav-alert:hover {
+    background-color: red !important;
+    border-radius: 3px;
+}
+
