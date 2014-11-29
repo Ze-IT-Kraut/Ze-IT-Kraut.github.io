@@ -655,7 +655,6 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -898,4 +897,8 @@ header .intro-text {
 
 .btn-round {
     border-radius: 50px;
+}
+
+#contact .jumbotron {
+    
 }
