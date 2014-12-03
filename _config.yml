@@ -96,7 +96,7 @@ delegation:
       url: https://www.linkedin.com/in/parkert
 - name: Sebastian Doerfel
   pic: 9
-  position: adsquare
+  position: Co-Founder & COO at adsquare GmbH
   social:
     - title: twitter
       url: https://twitter.com/astrosurfing
@@ -112,7 +112,7 @@ delegation:
       url: https://www.linkedin.com/pub/nazim-cetin/57/2a5/b60
 - name: Vidar Andersen
   pic: 7
-  position: Salesman
+  position: Vidar Andersen Consulting
   social:
     - title: twitter
       url: https://twitter.com/blacktar
@@ -122,7 +122,7 @@ delegation:
       url: https://de.linkedin.com/in/vidarandersen
 - name: Ralph Christoph
   pic: 1
-  position: Advisor
+  position: cologne on pop GmbH
   social:
     - title: twitter
       url: https://twitter.com/ralphchristoph
@@ -133,7 +133,7 @@ delegation:
 
 - name: Florian Krakau
   pic: 3
-  position: Head of Media
+  position: Daily Coffee Break
   social:
     - title: twitter
       url: https://twitter.com/dotdean
@@ -144,7 +144,7 @@ delegation:
 
 - name: Jan Kus
   pic: 4
-  position: Wholesaler
+  position: CEO Railslove GmbH & hack.institute
   social:
     - title: twitter
       url: http://twitter.com/koos
@@ -152,10 +152,9 @@ delegation:
       url: http://facebook.com/jbvkoos
     - title: linkedin
       url: de.linkedin.com/in/jbvkoos
-
 - name: Tobias Schiwek
   pic: 5
-  position: Wholesaler
+  position: ‎Bertelsmann Entrepreneurs Program at Bertelsmann
   social:
     - title: twitter
       url: https://twitter.com/tobiasschiwek
@@ -163,6 +162,26 @@ delegation:
       url: https://www.facebook.com/schiwek
     - title: linkedin
       url: https://de.linkedin.com/in/schiwek
+- name: Tim Schumacher
+  pic: 12
+  position: Internet Founder, Entrepreneur and Investor
+  social:
+    - title: twitter
+      url: https://twitter.com/timschu
+    - title: facebook
+      url: https://www.facebook.com/TimSchumacher
+    - title: linkedin
+      url: https://www.linkedin.com/in/timschumacher
+- name: Dan Taylor
+  pic: 11
+  position: Photographer at Heisenberg Media
+  social:
+    - title: twitter
+      url: https://twitter.com/mountaindan
+    - title: facebook
+      url: https://www.facebook.com/dantaylor1
+    - title: linkedin
+      url: http://at.linkedin.com/in/mountaindan
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
