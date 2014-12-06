@@ -72,10 +72,20 @@ people:
       url: https://www.facebook.com/schiwek
     - title: linkedin
       url: https://de.linkedin.com/in/schiwek
-
-- name: Isa Slowik
-  pic: 6
-  position: Compositor
+# - name: Isa Slowik
+#   pic: 6
+#   position: Compositor
+- name: Vidar Andersen
+  pic: 7
+  position: Vidar Andersen Consulting
+  social:
+    - title: twitter
+      url: https://twitter.com/blacktar
+    - title: facebook
+      url: https://www.facebook.com/Blacktar
+    - title: linkedin
+      url: https://de.linkedin.com/in/vidarandersen
+  
   # social:
   #   - title: facebook
   #     url: https://www.facebook.com/schiwek
