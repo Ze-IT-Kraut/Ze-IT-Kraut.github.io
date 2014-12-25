@@ -40,3 +40,18 @@ $('div.modal').on('show.bs.modal', function() {
 $(function() {
     $('header').attr('style', "background-image: url('../img/header-bg-" + Math.floor(Math.random()*3) + ".jpg');");
 })
+
+$(function() {
+    var clock;
+    // Grab the current date
+    var currentDate = new Date();
+    // Set some date in the future. In this case, it's always Jan 1
+    var futureDate  = new Date("March 12, 2015 11:13:00");
+    // Calculate the difference in seconds between the future and current date
+    var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+    // Instantiate a coutdown FlipClock
+    clock = $('.clock').FlipClock(diff, {
+        clockFace: 'DailyCounter',
+        countdown: true
+    });
+})
