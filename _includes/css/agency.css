@@ -932,6 +932,10 @@ ul.nav .nav-alert:hover {
         margin: 0 auto;
         display: block;
         width: 420px;
+        transform: scale(0.8, 0.8);
+        -webkit-transform: scale(0.8, 0.8);
+        -moz-transform: scale(0.8, 0.8);
+        -ms-transform: scale(0.8, 0.8);
     }
 
     .clock.flip-clock-wrapper ul { height: 40px; line-height: 40px; }
