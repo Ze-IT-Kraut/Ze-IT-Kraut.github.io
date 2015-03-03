@@ -892,8 +892,8 @@ body {
 
 header .intro-text {
     padding: 0 0 50px 0;
-    margin-top: 400px;
-    margin-bottom: 250px;
+    margin-top: 350px;
+    margin-bottom: 300px;
 }
 
 .btn-round {
@@ -914,3 +914,10 @@ ul.nav .nav-alert:hover {
     border-radius: 3px;
 }
 
+#media {
+    background: url('img/media-bg.jpg');
+}
+
+#media .section-heading {
+    color: #ffffff;
+}
