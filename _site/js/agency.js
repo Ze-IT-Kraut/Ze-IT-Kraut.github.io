@@ -38,7 +38,7 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 $(function() {
-    $('header').attr('style', "background-image: url('../img/header-bg-" + Math.floor(Math.random()*3) + ".jpg');");
+    $('header').attr('style', "background-image: url('../img/header.jpg');");
 })
 
 $(function() {

@@ -15,7 +15,7 @@ copyright: IT Kraut
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: f0c30d
-  secondary: fec503  
+  secondary: fec503
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -86,7 +86,7 @@ people:
       url: https://www.facebook.com/Blacktar
     - title: linkedin
       url: https://de.linkedin.com/in/vidarandersen
-  
+
   # social:
   #   - title: facebook
   #     url: https://www.facebook.com/schiwek
@@ -105,32 +105,32 @@ delegation:
       url: https://www.facebook.com/m.parker.thompson
     - title: linkedin
       url: https://www.linkedin.com/in/parkert
-- name: Sebastian Doerfel
-  pic: 9
-  position: Co-Founder & COO at adsquare GmbH
-  social:
-    - title: twitter
-      url: https://twitter.com/astrosurfing
-    - title: facebook
-      url: https://www.facebook.com/sebastian.doerfel
-    - title: linkedin
-      url: https://www.linkedin.com/pub/sebastian-doerfel/6/29b/650
+# - name: Sebastian Doerfel
+#   pic: 9
+#   position: Co-Founder & COO at adsquare GmbH
+#   social:
+#     - title: twitter
+#       url: https://twitter.com/astrosurfing
+#     - title: facebook
+#       url: https://www.facebook.com/sebastian.doerfel
+#     - title: linkedin
+#       url: https://www.linkedin.com/pub/sebastian-doerfel/6/29b/650
 - name: Dr. Nazim Cetin
   pic: 10
   position: Vice President at Bertelsmann
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/nazim-cetin/57/2a5/b60
-- name: Vidar Andersen
-  pic: 7
-  position: Vidar Andersen Consulting
-  social:
-    - title: twitter
-      url: https://twitter.com/blacktar
-    - title: facebook
-      url: https://www.facebook.com/Blacktar
-    - title: linkedin
-      url: https://de.linkedin.com/in/vidarandersen
+# - name: Vidar Andersen
+#   pic: 7
+#   position: Vidar Andersen Consulting
+#   social:
+#     - title: twitter
+#       url: https://twitter.com/blacktar
+#     - title: facebook
+#       url: https://www.facebook.com/Blacktar
+#     - title: linkedin
+#       url: https://de.linkedin.com/in/vidarandersen
 - name: Ralph Christoph
   pic: 1
   position: cologne on pop GmbH
@@ -142,16 +142,16 @@ delegation:
     - title: linkedin
       url: http://de.linkedin.com/in/ralphchristoph
 
-- name: Florian Krakau
-  pic: 3
-  position: Daily Coffee Break
-  social:
-    - title: twitter
-      url: https://twitter.com/dotdean
-    - title: facebook
-      url: https://www.facebook.com/dotdean
-    - title: linkedin
-      url: https://de.linkedin.com/in/floriankrakau
+# - name: Florian Krakau
+#   pic: 3
+#   position: Daily Coffee Break
+#   social:
+#     - title: twitter
+#       url: https://twitter.com/dotdean
+#     - title: facebook
+#       url: https://www.facebook.com/dotdean
+#     - title: linkedin
+#       url: https://de.linkedin.com/in/floriankrakau
 
 - name: Jan Kus
   pic: 4
@@ -173,26 +173,26 @@ delegation:
       url: https://www.facebook.com/schiwek
     - title: linkedin
       url: https://de.linkedin.com/in/schiwek
-- name: Tim Schumacher
-  pic: 12
-  position: Internet Founder, Entrepreneur and Investor
-  social:
-    - title: twitter
-      url: https://twitter.com/timschu
-    - title: facebook
-      url: https://www.facebook.com/TimSchumacher
-    - title: linkedin
-      url: https://www.linkedin.com/in/timschumacher
-- name: Dan Taylor
-  pic: 11
-  position: Photographer at Heisenberg Media
-  social:
-    - title: twitter
-      url: https://twitter.com/mountaindan
-    - title: facebook
-      url: https://www.facebook.com/dantaylor1
-    - title: linkedin
-      url: http://at.linkedin.com/in/mountaindan
+# - name: Tim Schumacher
+#   pic: 12
+#   position: Internet Founder, Entrepreneur and Investor
+#   social:
+#     - title: twitter
+#       url: https://twitter.com/timschu
+#     - title: facebook
+#       url: https://www.facebook.com/TimSchumacher
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/timschumacher
+# - name: Dan Taylor
+#   pic: 11
+#   position: Photographer at Heisenberg Media
+#   social:
+#     - title: twitter
+#       url: https://twitter.com/mountaindan
+#     - title: facebook
+#       url: https://www.facebook.com/dantaylor1
+#     - title: linkedin
+#       url: http://at.linkedin.com/in/mountaindan
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

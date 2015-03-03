@@ -899,7 +899,8 @@ body {
 
 header .intro-text {
     padding: 0 0 50px 0;
-    margin-top: 650px;
+    margin-top: 400px;
+    margin-bottom: 250px;
 }
 
 .btn-round {
@@ -907,7 +908,7 @@ header .intro-text {
 }
 
 #contact .jumbotron {
-    
+
 }
 
 ul.nav .nav-alert {
