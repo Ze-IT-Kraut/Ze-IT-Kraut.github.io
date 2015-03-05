@@ -95,6 +95,12 @@ people:
 
 # Team names, titles and social links
 delegation:
+- name: Daniel Brückner
+  pic: ~
+  position: Project & Innovation Manager UFA LAB
+  social: 
+    - title: linkedin
+      url: https://de.linkedin.com/in/dbrueckner
 - name: Parker Thompson
   pic: 8
   position: Partner at 500 Startups
@@ -173,6 +179,26 @@ delegation:
       url: https://www.facebook.com/schiwek
     - title: linkedin
       url: https://de.linkedin.com/in/schiwek
+- name: Nikolas Schriefer
+  pic: ~
+  position: Stagelink
+  social: 
+    - title: twitter
+      url: https://twitter.com/kinosal
+    - title: facebook
+      url: https://www.facebook.com/nikolasschriefer
+    - title: linkedin
+      url: linkedin.com/in/nikolasschriefer
+- name: Michael Schütz
+  pic: ~
+  position: Stagelink
+  social: 
+    - title: twitter
+      url: https://twitter.com/schuetzntweet
+    - title: facebook
+      url: https://www.facebook.com/schuetzinger
+    - title: linkedin
+      url: linkedin.com/in/schuetzinger
 # - name: Tim Schumacher
 #   pic: 12
 #   position: Internet Founder, Entrepreneur and Investor
