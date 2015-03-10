@@ -37,21 +37,9 @@ people:
     - title: twitter
       url: https://twitter.com/yoyostile
     - title: facebook
-      url: https://www.facebook.com/ralph.christoph
+      url: https://www.facebook.com/johannes.heck
     - title: linkedin
-      url: http://de.linkedin.com/in/ralphchristoph
-
-- name: Florian Krakau
-  pic: 3
-  position: Head of Media
-  social:
-    - title: twitter
-      url: https://twitter.com/dotdean
-    - title: facebook
-      url: https://www.facebook.com/dotdean
-    - title: linkedin
-      url: https://de.linkedin.com/in/floriankrakau
-
+      url: http://de.linkedin.com/in/johannesheck
 - name: Jan Kus
   pic: 4
   position: Wholesaler
@@ -62,7 +50,6 @@ people:
       url: http://facebook.com/jbvkoos
     - title: linkedin
       url: de.linkedin.com/in/jbvkoos
-
 - name: Tobias Schiwek
   pic: 5
   position: Wholesaler
@@ -73,44 +60,17 @@ people:
       url: https://www.facebook.com/schiwek
     - title: linkedin
       url: https://de.linkedin.com/in/schiwek
-# - name: Isa Slowik
-#   pic: 6
-#   position: Compositor
-- name: Vidar Andersen
-  pic: 7
-  position: Vidar Andersen Consulting
+- name: Daniel Brückner
+  pic: 13
+  position: Head of Media
   social:
-    - title: twitter
-      url: https://twitter.com/blacktar
-    - title: facebook
-      url: https://www.facebook.com/Blacktar
     - title: linkedin
-      url: https://de.linkedin.com/in/vidarandersen
-
-  # social:
-  #   - title: facebook
-  #     url: https://www.facebook.com/schiwek
-  #   - title: linkedin
-  #     url: https://de.linkedin.com/in/schiwek
+      url: https://de.linkedin.com/in/dbrueckner
+    - title: twitter
+      url: https://twitter.com/danbrknr
 
 # Team names, titles and social links
 delegation:
-- name: Daniel Brückner
-  pic: ~
-  position: Project & Innovation Manager UFA LAB
-  social: 
-    - title: linkedin
-      url: https://de.linkedin.com/in/dbrueckner
-- name: Parker Thompson
-  pic: 8
-  position: Partner at 500 Startups
-  social:
-    - title: twitter
-      url: https://twitter.com/pt
-    - title: facebook
-      url: https://www.facebook.com/m.parker.thompson
-    - title: linkedin
-      url: https://www.linkedin.com/in/parkert
 # - name: Sebastian Doerfel
 #   pic: 9
 #   position: Co-Founder & COO at adsquare GmbH
@@ -121,12 +81,6 @@ delegation:
 #       url: https://www.facebook.com/sebastian.doerfel
 #     - title: linkedin
 #       url: https://www.linkedin.com/pub/sebastian-doerfel/6/29b/650
-- name: Dr. Nazim Cetin
-  pic: 10
-  position: Vice President at Bertelsmann
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/pub/nazim-cetin/57/2a5/b60
 # - name: Vidar Andersen
 #   pic: 7
 #   position: Vidar Andersen Consulting
@@ -137,16 +91,6 @@ delegation:
 #       url: https://www.facebook.com/Blacktar
 #     - title: linkedin
 #       url: https://de.linkedin.com/in/vidarandersen
-- name: Ralph Christoph
-  pic: 1
-  position: cologne on pop GmbH
-  social:
-    - title: twitter
-      url: https://twitter.com/ralphchristoph
-    - title: facebook
-      url: https://www.facebook.com/ralph.christoph
-    - title: linkedin
-      url: http://de.linkedin.com/in/ralphchristoph
 
 # - name: Florian Krakau
 #   pic: 3
@@ -179,10 +123,44 @@ delegation:
       url: https://www.facebook.com/schiwek
     - title: linkedin
       url: https://de.linkedin.com/in/schiwek
+- name: Ralph Christoph
+  pic: 1
+  position: cologne on pop GmbH
+  social:
+    - title: twitter
+      url: https://twitter.com/ralphchristoph
+    - title: facebook
+      url: https://www.facebook.com/ralph.christoph
+    - title: linkedin
+      url: http://de.linkedin.com/in/ralphchristoph
+- name: Daniel Brückner
+  pic: 13
+  position: Project & Innovation Manager UFA LAB
+  social:
+    - title: linkedin
+      url: https://de.linkedin.com/in/dbrueckner
+    - title: twitter
+      url: https://twitter.com/danbrknr
+- name: Parker Thompson
+  pic: 8
+  position: Partner at 500 Startups
+  social:
+    - title: twitter
+      url: https://twitter.com/pt
+    - title: facebook
+      url: https://www.facebook.com/m.parker.thompson
+    - title: linkedin
+      url: https://www.linkedin.com/in/parkert
+- name: Dr. Nazim Cetin
+  pic: 10
+  position: Vice President at Bertelsmann
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/pub/nazim-cetin/57/2a5/b60
 - name: Nikolas Schriefer
   pic: ~
   position: Stagelink
-  social: 
+  social:
     - title: twitter
       url: https://twitter.com/kinosal
     - title: facebook
@@ -192,7 +170,7 @@ delegation:
 - name: Michael Schütz
   pic: ~
   position: Stagelink
-  social: 
+  social:
     - title: twitter
       url: https://twitter.com/schuetzntweet
     - title: facebook
@@ -227,7 +205,7 @@ social:
   - title: facebook
     url: https://www.facebook.com/pages/ITKraut/318870264971897
   - title: youtube
-    url: https://youtube.com
+    url: https://www.youtube.com/channel/UCkvQRO-vBOHJLywUwBot6LA
 
 # Postal address (add as many lines as necessary)
 address:
