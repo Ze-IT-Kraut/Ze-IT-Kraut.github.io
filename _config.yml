@@ -68,6 +68,9 @@ people:
       url: https://de.linkedin.com/in/dbrueckner
     - title: twitter
       url: https://twitter.com/danbrknr
+- name: Jan Rödger
+  pic: 14
+  position: DOP Excellence
 
 # Team names, titles and social links
 delegation:
@@ -141,6 +144,9 @@ delegation:
       url: https://de.linkedin.com/in/dbrueckner
     - title: twitter
       url: https://twitter.com/danbrknr
+- name: Jan Rödger
+  pic: 14
+  position: 6sept13
 - name: Parker Thompson
   pic: 8
   position: Partner at 500 Startups
@@ -158,7 +164,7 @@ delegation:
     - title: linkedin
       url: https://www.linkedin.com/pub/nazim-cetin/57/2a5/b60
 - name: Nikolas Schriefer
-  pic: ~
+  pic: 16
   position: Stagelink
   social:
     - title: twitter
@@ -166,9 +172,9 @@ delegation:
     - title: facebook
       url: https://www.facebook.com/nikolasschriefer
     - title: linkedin
-      url: linkedin.com/in/nikolasschriefer
+      url: http://linkedin.com/in/nikolasschriefer
 - name: Michael Schütz
-  pic: ~
+  pic: 15
   position: Stagelink
   social:
     - title: twitter
@@ -176,7 +182,17 @@ delegation:
     - title: facebook
       url: https://www.facebook.com/schuetzinger
     - title: linkedin
-      url: linkedin.com/in/schuetzinger
+      url: http://linkedin.com/in/schuetzinger
+- name: Konstantin Rohleder
+  pic: 17
+  position: Stagelink
+  social:
+    - title: twitter
+      url: https://twitter.com/ajnascent
+    - title: facebook
+      url: https://www.facebook.com/constantyn
+    - title: linkedin
+      url: http://linkedin.com/pub/konstantin-rohleder/b2/40a/865
 # - name: Tim Schumacher
 #   pic: 12
 #   position: Internet Founder, Entrepreneur and Investor
