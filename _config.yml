@@ -5,7 +5,9 @@
 # port: 4000
 # baseurl: /sxsw
 
-
+gems:
+  - jekyll-redirect-from
+  
 # Site settings
 title: IT Kraut @ SXSW
 email: ze@itkraut.at
