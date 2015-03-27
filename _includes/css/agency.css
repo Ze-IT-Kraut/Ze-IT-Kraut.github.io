@@ -916,6 +916,7 @@ ul.nav .nav-alert:hover {
 
 #media {
     background: url('img/media-bg.jpg');
+    padding: 90px 0px;
 }
 
 #media .section-heading {
@@ -961,4 +962,15 @@ ul.nav .nav-alert:hover {
 
     .clock.flip-clock-wrapper ul { width: 27px; margin: 2px; }
     .clock.flip-clock-wrapper ul li a div div.inn { font-size: 30px; line-height: 40px; }
+}
+
+.text-white {
+    color: white;
+}
+
+.navbar-brand img {
+    top: 0px;
+    position: absolute;
+    width: 120px;
+    left: 10%;
 }
