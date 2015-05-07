@@ -932,14 +932,14 @@ ul.nav .nav-alert:hover {
 
 .clock.flip-clock-wrapper {
     margin: 0 auto;
-    width: 640px;
+    width: 700px;
 }
 
 @media screen and (max-width: 767px) {
     .clock.flip-clock-wrapper {
         margin: 0 auto;
         display: block;
-        width: 420px;
+        width: 500px;
         transform: scale(0.8, 0.8);
         -webkit-transform: scale(0.8, 0.8);
         -moz-transform: scale(0.8, 0.8);
